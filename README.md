@@ -15,7 +15,7 @@
  
  The variable pointer can be incremented or decremented, pAddress = pAddress +1.
  
- ## Decision Making Statements:
+ ## C. Decision Making Statements:
     Five types:
     
     1. if statement
@@ -24,7 +24,7 @@
     4. Conditional operator
     5. Switch/case statement
     
-    **1. if Statement** 
+   **1. if Statement** 
        single statement execution 
        if(expression)
        {

@@ -25,6 +25,7 @@
     5. Switch/case statement
     
    **1. if Statement** 
+   
        single statement execution 
        if(expression)
        {
